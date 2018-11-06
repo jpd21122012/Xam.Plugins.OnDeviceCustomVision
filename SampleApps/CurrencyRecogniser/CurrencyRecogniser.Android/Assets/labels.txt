@@ -1,2 +1,7 @@
-FivePounds
-TenPounds
+Apple
+Banana
+Coconut
+Orange
+Passionfruit
+Pineapple
+Strawberry
